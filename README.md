@@ -4,7 +4,7 @@
 
 QuestCast is an experimental, low-latency casting system for showing a Meta Quest 3 headset view on an Apple TV over a local network. It is built as two small native applications with no PC, cloud service, account, or relay in the middle.
 
-**Project site:** [regularadrian.github.io/QuestCast](https://regularadrian.github.io/QuestCast/)
+**Project site:** [regulara.github.io/QuestCast](https://regulara.github.io/QuestCast/)
 
 > [!IMPORTANT]
 > QuestCast is an independent community project. It is not affiliated with, endorsed by, or sponsored by Meta or Apple. Meta Quest, Apple TV, tvOS, and their respective marks belong to their owners.
